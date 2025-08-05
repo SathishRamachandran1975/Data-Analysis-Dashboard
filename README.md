@@ -33,4 +33,19 @@ The goal of this project is to analyze Bike Sales Data across multiple countries
 - Filters: Country, Gender, Sub-Category, Year, Age Group
 - Charts: Country-wise customers, Gender-wise split, Product-wise quantities, Profit trends
 
+##💡Project Insights
+- Male customers slightly lead in total purchases, but the difference is minimal.
+- The United States, Australia, and Canada are the top countries by customer count.
+- Accessories is the highest-selling product category with over 61,000 units sold.
+- The adult age group (35–64) makes up the majority of customers (~46,000+).
+- The "Tires and Tubes" and "Hydration Packs" sub-categories had the highest order quantities.
+- Most revenue was recorded in 2014 and 2016, while 2011 had the highest profit.
+- Profits and customer counts are positively correlated by country and category.
+
+## ✅Final Conclusion
+To enhance future bike sales performance, the company should focus on accessories and sub-categories like Tires and Tubes, which have strong 
+customer engagement. The adult demographic (35–64 years), particularly in countries like the United States and Australia, represent the highest 
+value customer base.Marketing efforts should be directed toward these customers via relevant product bundles, seasonal offers, and regional 
+promotions. Continued focus on tracking product category performance and yearly trends can help optimize stock and boost revenue.
+
 
