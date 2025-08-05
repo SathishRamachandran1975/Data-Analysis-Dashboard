@@ -33,7 +33,7 @@ The goal of this project is to analyze Bike Sales Data across multiple countries
 - Filters: Country, Gender, Sub-Category, Year, Age Group
 - Charts: Country-wise customers, Gender-wise split, Product-wise quantities, Profit trends
 
-##💡Project Insights
+## 💡project Insights
 - Male customers slightly lead in total purchases, but the difference is minimal.
 - The United States, Australia, and Canada are the top countries by customer count.
 - Accessories is the highest-selling product category with over 61,000 units sold.
