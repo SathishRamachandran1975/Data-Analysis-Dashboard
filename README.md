@@ -1,12 +1,12 @@
 # Sathish-BikeSales-Data-Analysis (Interactive Dashboard Creation Using MS Excel)
-## Project Objective
+## 🧾Project Objective
 The goal of this project is to analyze Bike Sales Data across multiple countries using Excel, to uncover trends in customer behavior, product performance, and profitability. This interactive dashboard helps the company understand its target customers and maximize sales in future periods.
 
-## Bike Sales Dataset
+## 📊Bike Sales Dataset
 (Excel file includes customer demographic, product category, order quantity, revenue, and profit data from 2011 to 2016.) 
 - <a href="https://github.com/SathishRamachandran1975/Data-Analysis-Dashboard/blob/main/BIKE%20SALES%20EXCEL_PROJECT.xlsx">Dataset</a>
 
-## Questions (KPIs)
+## ❓Questions (KPIs)
 - Compare the sales and orders using a single chart.
 - Which year had the highest revenue and profit?
 - Who purchased more – Men or Women?
@@ -20,7 +20,7 @@ The goal of this project is to analyze Bike Sales Data across multiple countries
 
 - Dashboard Interaction <a href="https://github.com/SathishRamachandran1975/Data-Analysis-Dashboard/blob/main/EXCEL%20_PROJECT.jpg">view Dashboard</a>
 
-## Process
+## 🧪Process
 - Verified dataset for missing values and inconsistencies.
 - Ensured data consistency in formats, types, and entries.
 - Created Pivot Tables to answer each KPI-based question.
@@ -28,7 +28,7 @@ The goal of this project is to analyze Bike Sales Data across multiple countries
 - Used bar charts, pie charts, line graphs, and donut charts to present metrics.
 
 
-## Dashboard
+## 📈Dashboard
 ![EXCEL _PROJECT](https://github.com/user-attachments/assets/c0dda0b8-88c1-4491-beaa-557b2175733e)
 - Filters: Country, Gender, Sub-Category, Year, Age Group
 - Charts: Country-wise customers, Gender-wise split, Product-wise quantities, Profit trends
