@@ -26,3 +26,11 @@ The goal of this project is to analyze Bike Sales Data across multiple countries
 - Created Pivot Tables to answer each KPI-based question.
 - Designed a fully interactive dashboard using charts and slicers.
 - Used bar charts, pie charts, line graphs, and donut charts to present metrics.
+
+
+## Dashboard
+![EXCEL _PROJECT](https://github.com/user-attachments/assets/c0dda0b8-88c1-4491-beaa-557b2175733e)
+- Filters: Country, Gender, Sub-Category, Year, Age Group
+- Charts: Country-wise customers, Gender-wise split, Product-wise quantities, Profit trends
+
+
